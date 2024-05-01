@@ -1,0 +1,1 @@
+print("This calculator is designed by Alexandre D. Caspechaque")
